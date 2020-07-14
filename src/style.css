@@ -53,3 +53,14 @@ h1, h2, h3, h4, h5, h6 {
 #signin .logo img{
     width: 300px;
 }
+
+#signin label{
+    font-size: 0.9rem;
+    line-height: 2rem;
+    font-weight: 500;
+}
+
+#signin .text-input{
+    margin-bottom: 1.3rem;
+    width: 100%;
+}
